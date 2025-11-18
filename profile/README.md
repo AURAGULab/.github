@@ -9,3 +9,5 @@
 3. Create presentations directories
 4. Create people page(s?)
 5. Do we start a wiki?
+
+The is the profile page, it exists in .github/profile, and whatever is in this markdown file will display on the organizational public profile page.
