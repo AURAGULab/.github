@@ -40,14 +40,14 @@ Below are summaries of some of the project we are working on. Please visit the p
 ## Seepage Camera (SMAC)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hacfrotastic/img/main/SMAC_CAM.jpeg" width="50%"/>
-  <img src="https://raw.githubusercontent.com/AURAGULab/Projects/main/SMAC_Cam/Imgs/SMAC_Dep.webp" width="50%"/>
+  <img src="https://raw.githubusercontent.com/Hacfrotastic/img/main/SMAC_CAM.jpeg" width="53.5%"/>
+  <img src="https://raw.githubusercontent.com/AURAGULab/Projects/main/SMAC_Cam/Imgs/SMAC_Dep.webp" width="30%"/>
 </div>
 
 
-Seepage is defined as the slow leaking of a liquid through a pourus material. This event can lead to detramental consequences when it goes unmonitored in a dam. Currently, the way of monitoring this requires personnel to go out and observe each location and note what they see. To optimise this process, we developed a camera system to deploy in multiple locations along the Augusta canal. This allows us remotely monitor these sites and establish long term data. This device uses wireless communications and solar charging to makes it suitable for long term deployement. We have coined this solution as SMAC (Seepage Monitoring at the Augusta Canal).
+Seepage is defined as the slow leaking of a liquid through a pourus material. This event can lead to detramental consequences when it goes unmonitored in a dam. Currently, monitoring this requires personnel to go out and observe each location and note what they see. To optimize this process, we developed a camera system to deploy in multiple locations along the Augusta canal. We have coined this solution as SMAC (Seepage Monitoring at the Augusta Canal). SMAC allows us remotely monitor these sites and establish long term data collection. This device also uses wireless communications and solar charging to makes it suitable for long term deployement. 
 
-Ready to talk SMAC? [To SMAC Cam Repo](https://github.com/AURAGULab/Projects/tree/main/SMAC_Cam)
+Ready to talk SMAC? [SMAC Cam Repo](https://github.com/AURAGULab/Projects/tree/main/SMAC_Cam)
 
 ## Smart Trash
 
