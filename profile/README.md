@@ -23,7 +23,7 @@ Insert Spiel Hauger/ Byne usually give
 
 # Projects
 
-Below are summaries of some of the project we are working on. Please visit the projects seperate repo for more information
+Bellow are summaries of the project we are working on. Please visit the project's seperate repo for more information.
 
 ## WIL (Autonomous Surface Vehicle)
 
@@ -40,15 +40,15 @@ Below are summaries of some of the project we are working on. Please visit the p
 ## Seepage Camera (SMAC)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hacfrotastic/img/main/SMAC_CAM.jpeg" width="53.5%"/>
-  <img src="https://raw.githubusercontent.com/AURAGULab/Projects/main/SMAC_Cam/Imgs/SMAC_Dep.webp" width="30%"/>
+  <img src="https://raw.githubusercontent.com/Hacfrotastic/img/main/SMAC_CAM.jpeg" width="35.67%"/>
+  <img src="https://raw.githubusercontent.com/AURAGULab/Projects/main/SMAC_Cam/Imgs/SMAC_Dep.webp" width="20%"/>
 </div>
 
 
-Seepage is defined as the slow leaking of a liquid through a pourus material. This action can lead to detramental consequences when it goes unmonitored in a dam. Currently, monitoring this requires personnel to go out and observe each location and note what they see. To optimize this process, we developed a camera system to deploy in multiple locations along the Augusta canal. We have coined this solution as SMAC (Seepage Monitoring at the Augusta Canal). SMAC allows us remotely monitor these sites and establish long term data collection. This device also uses wireless communications and solar charging to make it suitable for long term deployement. 
+Seepage is defined as the slow leaking of a liquid through a pourus material. This action can lead to detramental consequences when it goes unmonitored in a dam. Currently, monitoring this requires personnel to go out and observe each location and note what they see. To optimize this process, we developed a camera system to deploy in multiple locations along the Augusta canal. We coined this solution SMAC (Seepage Monitoring at the Augusta Canal). SMAC allows us remotely monitor these sites and establish long term data collection. This device also uses wireless communications and solar charging to make it suitable for long term deployement. 
 
 Ready to talk SMAC? [SMAC Cam Repo](https://github.com/AURAGULab/Projects/tree/main/SMAC_Cam)
-
+test1
 ## Smart Trash
 
 ## VM developement
