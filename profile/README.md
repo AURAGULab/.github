@@ -18,7 +18,7 @@
 
 Bellow are summaries of the project we are working on. Please visit the project's seperate repo for more information.
 
-## Autonomous Surface Vehicle (WIL)
+## [Autonomous Surface Vehicle (WIL)](https://github.com/AURAGULab/Projects/tree/main/WIL)
 
 ## DOpTC
 
